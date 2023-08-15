@@ -1,0 +1,64 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600&family=Prata&display=swap");
+
+body {
+    margin: 0%;
+    font-family: "Montserrat", sans-serif;
+}
+
+.main-section {
+    padding: 20px;
+}
+
+.image-container {
+    height: 500px;
+background-image: url(https://siviaggia.it/wp-content/uploads/sites/2/2020/03/londra-1.jpg);}
+
+h1 {
+    font-family: "Prata", sans-serif;
+    font-size: 64px;
+    font-weight: 400;
+    margin-bottom: 0%;
+}
+
+h3 {
+    font-family: "Prata", sans-serif;
+    font-size: 24px;
+    font-weight: 400;
+    margin-top: 0%;
+    margin-bottom: 0%;
+}
+.main-section a{
+    text-decoration: none;
+    border-radius: 2px solid;
+    font-weight: 600;
+    font-style: italic;
+}
+h6{
+    padding: 22px;
+    margin-bottom: 0px;
+    margin-top: 56px;
+    border-radius: 6px;
+    background:linear-gradient(green, rgb(197, 125, 8));
+}
+ul{
+   list-style: none;
+   padding: 0;
+}
+li{
+    padding: 6px 22px;
+    border-bottom: 1px solid #dfdfdf;
+}
+.Luoghi{
+   text-decoration: none;
+   background: -webkit-linear-gradient(green, rgb(197, 125, 8));
+   -webkit-background-clip: text;
+   -webkit-text-fill-color: transparent;
+}
+footer{
+    background-color: black;
+    padding: 16px;
+    text-align: center;
+}
+footer a{
+    color: white;
+}
